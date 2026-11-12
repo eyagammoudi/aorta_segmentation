@@ -1,0 +1,7 @@
+torch>=2.1
+numpy
+scipy
+SimpleITK>=2.3
+nibabel
+pyyaml
+matplotlib
